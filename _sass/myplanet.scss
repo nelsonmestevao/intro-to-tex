@@ -154,13 +154,6 @@ html {
 
 		.slides section.intro {
 			background-color: $intro-bg;
-
-			.logo1 {
-				background-image: url("../../leadership.png");
-			}
-			 logo2 {
-			    background-image: url("../../entrepreneurship.png")
-			 }
 		}
 		.slides section.title {
 			background-color: $title-bg;
@@ -285,7 +278,6 @@ html {
 	}
 
 	.logo {
-		background-image: url("../../img/cesium/logo/ice/cesium.png");
 		background-repeat: no-repeat;
 		background-size: auto 100%;
 		display: inline-block;
@@ -336,7 +328,7 @@ html {
 		margin: auto;
 		min-height: 200px;
 		min-width: 200px;
-		width: 33%;
+		width: 60%;
 	}
 }
 
