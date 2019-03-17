@@ -155,9 +155,12 @@ html {
 		.slides section.intro {
 			background-color: $intro-bg;
 
-			.logo {
-				background-image: url("../../img/LaTeX/logo-black.svg");
+			.logo1 {
+				background-image: url("../../leadership.png");
 			}
+			 logo2 {
+			    background-image: url("../../entrepreneurship.png")
+			 }
 		}
 		.slides section.title {
 			background-color: $title-bg;
